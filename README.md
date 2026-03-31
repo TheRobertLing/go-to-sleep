@@ -1,2 +1,2 @@
 # go-to-sleep
-a tracker for going my sleep
+a tracker for my sleep
