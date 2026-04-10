@@ -18,3 +18,7 @@ I fell asleep and when I woke up every day. Instead I am going to pivot the
 logs. Rather than writing a markdown file each day, I am going to create a quick
 website that just showcases my sleep record. A much more visual and direct way
 to see if I've been sticking to my goal. Lesdoit.
+
+
+## Update
+All daily records are now recorded in the streaks repo
